@@ -1,0 +1,7 @@
+﻿<settings>
+  <category label="General">
+    <setting id="Updatecommonresolvers" label="Update Commonresolver from Genesis" type="bool" default="true" visible="false"/>
+  
+  </category>
+
+</settings>
